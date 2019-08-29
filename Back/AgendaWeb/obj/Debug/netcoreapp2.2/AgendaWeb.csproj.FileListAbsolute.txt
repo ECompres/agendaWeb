@@ -1,0 +1,14 @@
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.csprojAssemblyReference.cache
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.csproj.CoreCompileInputs.cache
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.RazorAssemblyInfo.cache
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.RazorAssemblyInfo.cs
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.AssemblyInfoInputs.cache
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.AssemblyInfo.cs
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\bin\Debug\netcoreapp2.2\AgendaWeb.deps.json
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\bin\Debug\netcoreapp2.2\AgendaWeb.runtimeconfig.json
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\bin\Debug\netcoreapp2.2\AgendaWeb.runtimeconfig.dev.json
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\bin\Debug\netcoreapp2.2\AgendaWeb.dll
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\bin\Debug\netcoreapp2.2\AgendaWeb.pdb
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.RazorTargetAssemblyInfo.cache
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.dll
+C:\Users\LuisC\Desktop\Programación\Proyectos\Agenda\Back\AgendaWeb\obj\Debug\netcoreapp2.2\AgendaWeb.pdb
